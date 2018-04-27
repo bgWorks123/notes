@@ -1,3 +1,41 @@
 vue-cli 是一个官方发布 vue.js 项目脚手架，使用 vue-cli 可以快速创建 vue 项目，GitHub地址是：https://github.com/vuejs/vue-cli
 
 scan :  https://blog.csdn.net/wisewrong/article/details/55212684     
+
+
+Vue  组件之间的数据传递
+
+scan : http://www.cnblogs.com/wisewrong/p/6266038.html
+
+Vue 使用 vue-router 跳转页面
+
+scan : http://www.cnblogs.com/wisewrong/p/6277262.html
+
+Vue  与 Vuex 的第一次接触
+
+sacn : http://www.cnblogs.com/wisewrong/p/6344390.html
+
+Vue  组件进阶
+
+scan : http://www.cnblogs.com/wisewrong/p/6380903.html#3960012
+
+Vue  使用 Vuex + axios 发送请求
+scan : http://www.cnblogs.com/wisewrong/p/6402183.html
+
+Vue  监听滚动事件 实现动态锚点
+
+scan: http://www.cnblogs.com/wisewrong/p/6495726.html
+
+Vue 爬坑之路（八）—— 使用 Echarts 创建图表
+scan:http://www.cnblogs.com/wisewrong/p/6558001.html 
+
+Vue  用正确的姿势封装组件
+
+sacn:http://www.cnblogs.com/wisewrong/p/6834270.html
+
+Vue Vue2.5 + Typescript 构建项目
+
+scan: http://www.cnblogs.com/wisewrong/p/8570309.html
+
+Vue 基于 Nuxt.js 实现服务端渲染（SSR）
+sacn: http://www.cnblogs.com/wisewrong/p/8707527.html#3942771
